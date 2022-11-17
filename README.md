@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
+### Aidar Akhmedzyanov
+
+- 🔭 Foreman of building and assembly works
+- 🌱 Computer scince student
+- 😄 Fun fact: Scientists have found that goats, like us, have an accent, depending on where they live.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aidar-Ahm)  
+
+![Profile views](https://gpvc.arturio.dev/Aidar-Ahm)  
 <!--
 **Aidar-Ahm/Aidar-Ahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
